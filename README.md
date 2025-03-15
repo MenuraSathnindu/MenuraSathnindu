@@ -1,8 +1,37 @@
-# 👋 Hi, I’m @MenuraSathnindu
+# Hi there! 👋 I'm Menura Sathnindu
 
-- 👀 I’m interested in technology, programming, and IoT projects.
-- 🌱 I’m currently an undergraduate at IIT, Sri Lanka.
-- 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 📫 How to reach me: menurasathnindu@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with AI and robotics in my free time!
+🚀 **Innovator | Tech Enthusiast | Problem Solver**
+
+Welcome to my GitHub profile! I’m passionate about leveraging technology to solve real-world problems and create impactful solutions. From software development to hardware integration, I love exploring new frontiers in tech. 
+
+---
+
+## 🔥 About Me
+
+- 🎓 **Undergraduate at IIT, Sri Lanka**
+- 💻 **Proficient in:** Python, Java, SQL, Arduino, Web Development
+- 📡 **Exploring:** AI, IoT, Embedded Systems, Full-Stack Development
+
+
+---
+
+## 🚀 What I Do
+
+🔹 **Software Development** – Crafting scalable applications with efficient code.
+🔹 **Embedded Systems** – Blending hardware with software for IoT innovations.
+🔹 **Tech Education** – Conducting workshops and mentoring students.
+🔹 **AI & Automation** – Enhancing productivity through intelligent systems.
+
+---
+
+## 🌱 Open to Collaborations
+I'm always eager to collaborate on innovative projects related to AI, IoT, automation, and software engineering. Feel free to connect!
+
+📫 **Reach Me At:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menura-sathnindu-gunasiri)  
+
+
+---
+
+⚡ **“Technology is best when it brings people together.” – Matt Mullenweg**
+
