@@ -1,39 +1,43 @@
-# Hi there! 👋 I'm Menura Sathnindu
+# 👋 Hey, I’m **Menura Sathnindu**
 
-🚀 **Innovator | Tech Enthusiast | Problem Solver**
+### 🚀 Building the future one project at a time.
 
-Welcome to my GitHub profile! I’m passionate about leveraging technology to solve real-world problems and create impactful solutions. From software development to hardware integration, I love exploring new frontiers in tech. 
-
----
-
-## 🔥 About Me
-
-- 🎓 **Undergraduate at IIT, Sri Lanka**
-- 💻 **Proficient in:** Python, Java, SQL, Arduino, Web Development
-- 📡 **Exploring:** AI, IoT, Embedded Systems, Full-Stack Development
-
+I’m a tech-driven creator who loves turning complex problems into clean, practical solutions. Whether it's AI, IoT, or full-stack development, I focus on building things that actually work and make life easier.
 
 ---
 
-## 🚀 What I Do
+## ⚡ What I’m Into
 
-🔹 **Software Development** – Crafting scalable applications with efficient code.
-🔹 **Embedded Systems** – Blending hardware with software for IoT innovations.
-🔹 **Tech Education** – Conducting workshops and mentoring students.
-🔹 **AI & Automation** – Enhancing productivity through intelligent systems.
+- **AI & Automation** – Smart systems that think ahead  
+- **IoT & Embedded Tech** – Software + hardware magic  
+- **Full-Stack Engineering** – From concept → deployment  
+- **Tech Education** – Helping others get started  
 
 ---
 
-## 🌱 Open to Collaborations
-I'm always eager to collaborate on innovative projects related to AI, IoT, automation, and software engineering. Feel free to connect!
+## 🧰 My Toolkit
 
-📫 **Reach Me At:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menura-sathnindu-gunasiri) 
+**Languages:** Python, Java, SQL  
+**Tech & Tools:** Streamlit, React, Arduino, Machine Learning, Cloud, APIs  
+**Exploring:** Advanced AI systems, futuristic interfaces, scalable architectures  
+
+---
+
+## 💡 What I’m Working On
+
+Always building — intelligent apps, IoT-driven systems, automation tools, and experimental side projects.
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're into AI, automation, IoT, or building futuristic ideas — I’m down to team up.
+
+📬 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menura-sathnindu-gunasiri)  
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?logo=Facebook)](https://www.facebook.com/menura.sathnindu1)  
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-blue?logo=Instagram)](https://www.instagram.com/menura_sathnindu)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-pink?logo=instagram)](https://www.instagram.com/menura_sathnindu)
 
 ---
 
-⚡ **“Technology is best when it brings people together.” – Matt Mullenweg**
-
+### ✨ “Build things that make people go: *damn, that’s cool.*”
