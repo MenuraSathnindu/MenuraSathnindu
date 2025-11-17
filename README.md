@@ -24,7 +24,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Developer;IoT+%7C+Embedded+Systems+Engineer;Full-Stack+Developer;Tech+Educator+%26+Innovator;Building+Smart+Systems+for+2030" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Developer;IoT+%7C+Embedded+Systems+Engineer;Full-Stack+Developer;Tech+Educator+%26+Innovator" alt="Typing SVG" />
 </p>
 
 ---
