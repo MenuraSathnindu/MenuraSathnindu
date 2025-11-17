@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 About Me
-> I'm an **AI + IoT focused engineering undergraduate** who loves building futuristic systems that solve real problems.  
+> I'm an **AI + IoT focused undergraduate** who loves building futuristic systems that solve real problems.  
 > My passion lies in combining **hardware, software, and intelligence** to create powerful, effective solutions.
 
 - Passionate about AI, ML, and automation  
