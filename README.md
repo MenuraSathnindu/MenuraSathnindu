@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/menurasathnindu?label=Followers&style=for-the-badge&color=00FF9D" />
   <img src="https://img.shields.io/github/stars/menurasathnindu?label=Total%20Stars&style=for-the-badge&color=00FF9D" />
-  <img src="https://img.shields.io/github/repos/menurasathnindu?label=Public%20Repos&style=for-the-badge&color=00FF9D" />
+  <img src="https://komarev.com/ghpvc/?username=menurasathnindu&label=Profile%20Views&color=00FF9D&style=for-the-badge" />
 </p>
 
 <!-- Typing Animation (SAFE) -->
