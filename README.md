@@ -1,18 +1,12 @@
-<!-- ========================= -->
-<!--  SOCIAL LINKS ON TOP -->
-<!-- ========================= -->
 <p align="center">
   <a href="https://www.linkedin.com/in/menura-sathnindu-gunasiri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:menurasathnindu2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!-- ========================= -->
-<!--  HEADER -->
-<!-- ========================= -->
 <h1 align="center" style="color:#00FF9D; font-weight:700;">
   Menura Sathnindu
 </h1>
@@ -22,11 +16,11 @@
   Building Futuristic Tech for Real-World Impact
 </h3>
 
-<p align="center">
+<div align="center">
   🌱 Aspiring Technologist | Lifelong Learner | Turning Ideas into Intelligent Systems
-</p>
+</div>
+<br/>
 
-<!-- Typing Animation -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Aspiring+AI+%26+Automation+Engineer;IoT+%7C+Embedded+Systems+Developer;Full-Stack+Developer;Tech+Educator+%26+Innovator" 
@@ -40,12 +34,10 @@
 > I'm an **aspiring AI Engineer & IoT Innovator**, currently an undergraduate,  
 > passionate about building **intelligent systems that connect software, hardware, and real-world impact**.
 
-- Aspiring AI & Machine Learning Engineer  
-- Strong interest in automation & smart systems  
-- IoT & embedded systems developer  
-- Full-stack developer (React, JavaScript, Python)  
-- Tech educator, workshop conductor & community contributor  
-- Always learning, experimenting & evolving 🚀  
+- 🔭 I’m currently working on **AI & Machine Learning Projects**
+- 🌱 I’m currently learning **Advanced Computer Vision & Embedded Systems**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/MenuraSathnindu)
+- 💬 Ask me about **Python, Java, React, or Arduino**
 
 ---
 
@@ -53,70 +45,35 @@
 
 <div align="center">
 
-### 🖥️ Programming
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br>Java</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>JavaScript</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/><br>TypeScript</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>HTML</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>CSS</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/><br>SQL</td>
-</tr>
-</table>
+### 🖥️ Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
----
+### ⚙️ Frameworks & Tools
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-### ⚙️ Frameworks, Tools & Platforms
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br>React</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/><br>Streamlit</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/><br>Arduino</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>TensorFlow</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br>Firebase</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br>NodeJS</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/><br>Vercel</td>
-</tr>
-</table>
+### 🔌 IoT & Hardware
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Espressif-323232?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
----
-
-### 🔌 IoT, Embedded & Hardware
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/2886/2886763.png" width="45"/><br>ESP32</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45"/><br>Sensor Systems</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/3069/3069172.png" width="45"/><br>Embedded C</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/619/619153.png" width="45"/><br>IoT Integrations</td>
-</tr>
-</table>
-
----
-
-### 🧩 Databases & Backend
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45"/><br>REST APIs</td>
-<td align="center" width="120"><img src="https://jwt.io/img/pic_logo.svg" width="45"/><br>JWT</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br>Postman</td>
-</tr>
-</table>
-
----
-
-### 🤝 Collaboration & Workflow
-<table>
-<tr>
-<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>GitHub</td>
-<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/><br>Agile Workflow</td>
-<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45"/><br>Project Management</td>
-</tr>
-</table>
+### 🛠️ Collaboration & Dev
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
 </div>
 
@@ -124,25 +81,33 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MenuraSathnindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuraSathnindu&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=MenuraSathnindu&theme=matrix&no-frame=true&row=1&margin-w=15"
-  />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MenuraSathnindu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuraSathnindu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenuraSathnindu&theme=tokyonight&hide_border=true" height="160" />
+</a>
+
+<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=MenuraSathnindu&theme=matrix&no-frame=true&row=1&margin-w=15" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i style="color:#00FF9D;">“Innovation begins when curiosity meets courage.”</i>
-</p>
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=MenuraSathnindu&label=Profile%20Views&color=00FF9D&style=flat" alt="Profile Views" />
+</div>
