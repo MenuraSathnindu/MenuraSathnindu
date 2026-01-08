@@ -126,18 +126,18 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=menurasathnindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=MenuraSathnindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=menurasathnindu&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuraSathnindu&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=menurasathnindu&theme=matrix&no-frame=true&row=1&margin-w=15"
+    src="https://github-profile-trophy.vercel.app/?username=MenuraSathnindu&theme=matrix&no-frame=true&row=1&margin-w=15"
   />
 </p>
 
