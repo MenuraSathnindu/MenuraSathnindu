@@ -18,26 +18,34 @@
 </h1>
 
 <h3 align="center" style="color:white; font-weight:400;">
-  AI Engineer • IoT Innovator • Full-Stack Developer <br>
+  Aspiring AI Engineer • IoT Innovator • Full-Stack Developer <br>
   Building Futuristic Tech for Real-World Impact
 </h3>
 
+<p align="center">
+  🌱 Aspiring Technologist | Lifelong Learner | Turning Ideas into Intelligent Systems
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Developer;IoT+%7C+Embedded+Systems+Engineer;Full-Stack+Developer;Tech+Educator+%26+Innovator" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Aspiring+AI+%26+Automation+Engineer;IoT+%7C+Embedded+Systems+Developer;Full-Stack+Developer;Tech+Educator+%26+Innovator" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
 
 ## 🚀 About Me
-> I'm an **AI + IoT focused undergraduate** who loves building futuristic systems that solve real problems.  
-> My passion lies in combining **hardware, software, and intelligence** to create powerful, effective solutions.
+> I'm an **aspiring AI Engineer & IoT Innovator**, currently an undergraduate,  
+> passionate about building **intelligent systems that connect software, hardware, and real-world impact**.
 
-- Passionate about AI, ML, and automation  
-- Developer of smart IoT + embedded tech projects  
-- Full-stack developer (React, JS, Python)  
-- Tech educator & workshop conductor  
-- Always experimenting, improving & pushing boundaries  
+- Aspiring AI & Machine Learning Engineer  
+- Strong interest in automation & smart systems  
+- IoT & embedded systems developer  
+- Full-stack developer (React, JavaScript, Python)  
+- Tech educator, workshop conductor & community contributor  
+- Always learning, experimenting & evolving 🚀  
 
 ---
 
@@ -110,22 +118,27 @@
 </tr>
 </table>
 
----
-
 </div>
 
+---
+
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MenuraSathnindu&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuraSathnindu&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=menurasathnindu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=menurasathnindu&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenuraSathnindu&theme=matrix&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=menurasathnindu&theme=matrix&no-frame=true&row=1&margin-w=15"
+  />
 </p>
 
 ---
