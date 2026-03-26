@@ -81,12 +81,29 @@
 <table>
 <tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>React</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/><br/>Streamlit</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/><br/>Arduino</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br/>Firebase</td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>NodeJS</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br/>Firebase</td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/><br/>Vercel</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/><br/>Streamlit</td>
+</tr>
+</table>
+
+---
+
+### 🤖 AI / Machine Learning & Data
+<table>
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br/>PyTorch</td>
+<td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/><br/>Keras</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas</td>
+</tr>
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br/>OpenCV</td>
+<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="45"/><br/>YOLO</td>
+<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="45"/><br/>SPARQL</td>
+<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45"/><br/>Apache Airflow</td>
 </tr>
 </table>
 
