@@ -98,8 +98,6 @@
 <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/><br/>Keras</td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy</td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas</td>
-</tr>
-<tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br/>OpenCV</td>
 <td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="45"/><br/>YOLO</td>
 <td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="45"/><br/>SPARQL</td>
