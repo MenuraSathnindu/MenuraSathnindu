@@ -110,6 +110,7 @@
 ### 🔌 IoT, Embedded & Hardware
 <table>
 <tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/><br/>Arduino</td>
 <td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/2886/2886763.png" width="45"/><br/>ESP32</td>
 <td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45"/><br/>Sensor Systems</td>
 <td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/3069/3069172.png" width="45"/><br/>Embedded C</td>
