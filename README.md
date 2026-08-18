@@ -1,7 +1,10 @@
 <!-- ========================= -->
-<!--  SOCIAL LINKS ON TOP -->
+<!--  SOCIAL LINKS -->
 <!-- ========================= -->
 <p align="center">
+  <a href="https://menuragunasiri.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/menura-sathnindu-gunasiri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -13,138 +16,62 @@
 <!-- ========================= -->
 <!--  HEADER -->
 <!-- ========================= -->
-<h1 align="center">Menura Sathnindu</h1>
+<h1 align="center">Menura Sathnindu Gunasiri</h1>
 
 <h3 align="center">
-  Aspiring AI Engineer • IoT Innovator • Full-Stack Developer <br/>
-  Building Futuristic Tech for Real-World Impact
+  Biomedical Researcher @ IIT · AI & Data Science Undergraduate
 </h3>
 
 <p align="center">
-  🌱 Aspiring Technologist | Lifelong Learner | Turning Ideas into Intelligent Systems
+  Building intelligent systems where AI meets biology, health & the real world.
 </p>
 
-<!-- ========================= -->
-<!--  PROFILE METRICS (STABLE) -->
-<!-- ========================= -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/menurasathnindu?label=Followers&style=for-the-badge&color=00FF9D" />
-  <img src="https://img.shields.io/github/stars/menurasathnindu?label=Total%20Stars&style=for-the-badge&color=00FF9D" />
   <img src="https://komarev.com/ghpvc/?username=menurasathnindu&label=Profile%20Views&color=00FF9D&style=for-the-badge" />
 </p>
 
-<!-- Typing Animation (SAFE) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Aspiring+AI+%26+Automation+Engineer;IoT+%7C+Embedded+Systems+Developer;Full-Stack+Developer;Tech+Educator+%26+Innovator"
-    alt="Typing SVG"
-  />
+---
+
+## 👋 About Me
+
+- 🔬 **Biomedical Researcher** at the Informatics Institute of Technology (IIT), working on AI applied to biomedical problems
+- 🎓 BSc (Hons) **Artificial Intelligence & Data Science** (RGU | IIT) — Undergraduate
+- ⚡ BSc **Electronics & Automation Technologies** (UOC) — Undergraduate
+- 🧠 Interested in ML pipelines, computer vision, and IoT/embedded systems
+- 🌱 Always learning and turning ideas into working systems
+
+---
+
+## 🛠️ Tech I Work With
+
+**Research & AI/ML**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+</p>
+
+**IoT & Embedded**
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat&logo=c&logoColor=black" />
+</p>
+
+**Web & Tools**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
-> I'm an **aspiring AI Engineer & IoT Innovator**, currently an undergraduate,  
-> passionate about building **intelligent systems that connect software, hardware, and real-world impact**.
-
-- Aspiring AI & Machine Learning Engineer  
-- Strong interest in automation & smart systems  
-- IoT & embedded systems developer  
-- Full-stack developer (React, JavaScript, Python)  
-- Tech educator, workshop conductor & community contributor  
-- Always learning, experimenting & evolving 🚀  
-
----
-
-## 🧠 Technical Skills
-
-<div align="center">
-
-### 🖥️ Programming
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>Python</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>Java</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>C++</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/><br/>TypeScript</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br/>R</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>HTML</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>CSS</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/><br/>SQL</td>
-</tr>
-</table>
-
----
-
-### ⚙️ Frameworks, Tools & Platforms
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>React</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>NodeJS</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br/>Firebase</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/><br/>Vercel</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/><br/>Streamlit</td>
-</tr>
-</table>
-
----
-
-### 🤖 AI / Machine Learning & Data
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br/>PyTorch</td>
-<td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/><br/>Keras</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/><br/>OpenCV</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="45"/><br/>YOLO</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="45"/><br/>SPARQL</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45"/><br/>Apache Airflow</td>
-</tr>
-</table>
-
----
-
-### 🔌 IoT, Embedded & Hardware
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/><br/>Arduino</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/2886/2886763.png" width="45"/><br/>ESP32</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45"/><br/>Sensor Systems</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/3069/3069172.png" width="45"/><br/>Embedded C</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/619/619153.png" width="45"/><br/>IoT Integrations</td>
-</tr>
-</table>
-
----
-
-### 🧩 Databases & Backend
-<table>
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>MySQL</td>
-<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45"/><br/>REST APIs</td>
-<td align="center" width="120"><img src="https://jwt.io/img/pic_logo.svg" width="45"/><br/>JWT</td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br/>Postman</td>
-</tr>
-</table>
-
----
-
-### 🤝 Collaboration & Workflow
-<table>
-<tr>
-<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br/>GitHub</td>
-<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/><br/>Agile Workflow</td>
-<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45"/><br/>Project Management</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <p align="center">
-  <i>“Innovation begins when curiosity meets courage.”</i>
+  <i>"Innovation begins when curiosity meets courage."</i>
 </p>
