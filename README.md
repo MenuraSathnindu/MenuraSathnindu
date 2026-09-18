@@ -42,6 +42,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- Total contributions · current streak · longest streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=menurasathnindu&theme=transparent&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=00FF9D&background=0D1117" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menurasathnindu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&border_radius=8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menurasathnindu&layout=compact&hide_border=true&langs_count=8&theme=transparent&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_radius=8" height="165" alt="Top Languages" />
+</p>
+
+---
+
 ## 🛠️ Tech I Work With
 
 **Research & AI/ML**
@@ -63,7 +77,7 @@
 
 **Web & Tools**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
